@@ -8,9 +8,9 @@ An institutional-grade, open-source archive of cleaned, standardized, and valida
 - **Symbol:** `SANDUSDT`
 - **Market:** Binance Spot
 - **Timeframe:** 1 Minute (`1m`)
-- **Total Months:** `75` months
-- **Total Candles:** `3,256,516` 1-minute candles
-- **Historical Range:** `2020-08-14 13:00:00` to `2026-10-24 23:59:00` (UTC)
+- **Total Months:** `76` months
+- **Total Candles:** `3,276,676` 1-minute candles
+- **Historical Range:** `2020-08-14 13:00:00` to `2026-11-07 23:59:00` (UTC)
 - **Schema:** `timestamp, datetime_utc, open, high, low, close, volume, quote_volume, trade_count, taker_buy_volume, taker_buy_quote_volume`
 
 ---
